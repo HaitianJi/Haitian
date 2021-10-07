@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Home/Documento/sistema info/tema3/AlejandroMorella
+=======
+Home/Documento/sistema info/tema3/Haitian
+<<<<<<< HEAD
+Home/Documento/sistema info/tema3/Roberto
+=======
+
+Home/Documento/claseinfo/borja
+>>>>>>> 2e67f63e59685e1bb0e9ba2556ccf6fc0260049c
+>>>>>>> 40bc990f33d63d04712ea23cb1896da8dbfc418d
