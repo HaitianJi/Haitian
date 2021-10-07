@@ -1,2 +1,7 @@
 Home/Documento/sistema info/tema3/Haitian
+<<<<<<< HEAD
 Home/Documento/sistema info/tema3/Roberto
+=======
+
+Home/Documento/claseinfo/borja
+>>>>>>> 2e67f63e59685e1bb0e9ba2556ccf6fc0260049c
